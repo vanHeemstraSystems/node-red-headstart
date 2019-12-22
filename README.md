@@ -67,6 +67,32 @@ You should get a response like:
 
 ![Command Prompt](http://developer.opto22.com/nodered/general/getting-started/images/nodejs-install-version.png)
 
+**Install Node-RED**
+
+Like Node-RED, Node.js packages are installed with the npm command-line tool. npm is the Node Package Manager, and is typically used to download and install packages from the central Node registry at [npmjs.com](https://npmjs.com/).
+
+The full Node-RED installation instructions are [on their site](http://nodered.org/docs/getting-started/installation).
+
+On Windows, from a command-prompt, type:
+```javascript
+npm install -g node-red
+```
+
+On Linux, from a terminal window, type:
+```javascript
+sudo npm install -g --unsafe-perm node-red
+```
+
+It can take a few moments before much happens. The npm tool will begin to install Node-RED and all of its dependencies.
+
+Along the way, you’ll probably see some errors like this:
+
+![Command Prompt](http://developer.opto22.com/nodered/general/getting-started/images/nodered-install-win.png)
+
+Those errors can be safely ignored. The [Node-RED website](http://nodered.org/docs/getting-started/installation#install-node-red) says that those are optional dependencies, and that “Node-RED will work without these optional dependencies”.
+
+**Run Node-RED**
+
 
 
 #### Node-RED Hello, world! - Part 1
