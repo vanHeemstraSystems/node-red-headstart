@@ -62,7 +62,7 @@ node -v
 ```
 
 You should get a response like:
-
+![Command Prompt](http://developer.opto22.com/nodered/general/getting-started/images/nodejs-install-version.png)
 
 
 
