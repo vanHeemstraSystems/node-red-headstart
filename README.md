@@ -95,6 +95,42 @@ Those errors can be safely ignored. The [Node-RED website](http://nodered.org/do
 
 **Run Node-RED**
 
+Now run Node-RED with:
+
+```javascript
+node-red -v
+```
+
+The output will look like:
+
+```javascript
+Welcome to Node-RED
+===================
+
+16 May 15:10:26 - [info] Node-RED version: v0.13.4
+16 May 15:10:26 - [info] Node.js  version: v4.2.5
+16 May 15:10:26 - [info] Windows_NT 10.0.10586 x64 LE
+16 May 15:10:26 - [info] Loading palette nodes
+16 May 15:10:27 - [warn] ------------------------------------------
+16 May 15:10:27 - [warn] [rpi-gpio] Info : Ignoring Raspberry Pi specific node
+16 May 15:10:27 - [warn] [tail] Not currently supported on Windows.
+16 May 15:10:27 - [warn] ------------------------------------------
+16 May 15:10:27 - [info] Settings file  : C:\Users\sabrina\AppData\Roaming\npm\n
+16 May 15:10:27 - [info] User directory : \Users\sabrina\.node-red
+16 May 15:10:27 - [info] Flows file : \Users\sabrina\.node-red\flows_sabrina-W
+16 May 15:10:27 - [info] Creating new flow file
+16 May 15:10:27 - [info] Starting flows
+16 May 15:10:27 - [info] Started flows
+16 May 15:10:27 - [info] Server now running at http://127.0.0.1:1880/
+```
+
+Open your web browser to the address shown (for example, http://127.0.0.1:1880) and you should see the default Node-RED screen:
+
+**NOTE**: On Linux Academy Cloud Playground server you will have to open the Graphical Terminal from the Actions menu of Server-Node-RED to open a browser.
+
+
+
+
 
 
 #### Node-RED Hello, world! - Part 1
