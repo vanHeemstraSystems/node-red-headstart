@@ -40,6 +40,7 @@ If using a groov EPIC processor or groov Edge Appliance, continue to the Hello, 
 #### Node-RED Installation
 
 **Overview**
+
 Node-RED runs on the Node.js platform, a cross-platform JavaScript engine. For more information on Node.js, see [nodejs.org](https://nodejs.org/).
 
 Node-RED is pre-installed on groov EPIC processors and the groov Edge Appliance.
@@ -47,6 +48,7 @@ Node-RED is pre-installed on groov EPIC processors and the groov Edge Appliance.
 To install Node.js and Node-RED on your own computer, see the following instructions.
 
 **Install Node.js**
+
 The recommended installer is on the Node.js [homepage](https://nodejs.org/), and other downloads are available on their [download page](https://nodejs.org/en/download/).
 
 Our SNAP PAC nodes require Node.js version 4.4.5 or newer, so get the current stable version.
@@ -62,6 +64,7 @@ node -v
 ```
 
 You should get a response like:
+
 ![Command Prompt](http://developer.opto22.com/nodered/general/getting-started/images/nodejs-install-version.png)
 
 
