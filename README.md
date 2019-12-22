@@ -126,10 +126,10 @@ Welcome to Node-RED
 
 Open your web browser to the address shown (for example, http://127.0.0.1:1880) and you should see the default Node-RED screen:
 
-**NOTE**: On Linux Academy Cloud Playground server you will have to open the Graphical Terminal from the Actions menu of Server-Node-RED to open a browser.
+**NOTE**: On Linux Academy Cloud Playground server you will have to open the Graphical Shell from the Actions menu of Server-Node-RED to open a browser.
 
 
-
+... more
 
 
 
