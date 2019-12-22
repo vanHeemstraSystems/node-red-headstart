@@ -3,7 +3,9 @@ node-red-headstart
 
 Based on "Node-RED Hello, world! Example" at http://developer.opto22.com/nodered/general/getting-started/node-red-hello-world/
 
-## Overview
+## About
+
+### Overview
 
 [Node-RED](http://nodered.org/) is a visual tool for wiring the Internet of Things, by wiring together hardware devices, APIs and online services in new and interesting ways.
 
@@ -23,4 +25,6 @@ For more information, please see the following information:
   - [groov.com](https://groov.com/?__hstc=256016212.dfb3efe4cbcc920bfe85d2853b6262cb.1577022410153.1577022410153.1577022410153.1&__hssc=256016212.2.1577022410154&__hsfp=3201587947)
 - [Resources](http://developer.opto22.com/nodered/resources)
 
+## Getting Started
 
+### Introduction
