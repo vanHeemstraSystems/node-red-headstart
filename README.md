@@ -25,6 +25,29 @@ For more information, please see the following information:
   - [groov.com](https://groov.com/?__hstc=256016212.dfb3efe4cbcc920bfe85d2853b6262cb.1577022410153.1577022410153.1577022410153.1&__hssc=256016212.2.1577022410154&__hsfp=3201587947)
 - [Resources](http://developer.opto22.com/nodered/resources)
 
-## Getting Started
+## Getting Started with Node-RED
 
 ### Introduction
+
+This Getting Started guide covers getting Node-RED running (either on a groov EPIC processor, groov Edge Appliance, or a computer), and provides a few examples of how to use Node-RED.
+
+Node-RED comes pre-installed on groov EPIC processors and the groov Edge Appliance.
+
+#### Node-RED Installation
+
+#### Node-RED Hello, world! - Part 1
+
+#### Node-RED Hello, world! - Part 2
+
+### Troubleshooting
+
+... more
+
+### Resources
+
+... more
+
+### Code Samples
+
+... more
+
