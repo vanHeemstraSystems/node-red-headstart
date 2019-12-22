@@ -7,3 +7,16 @@ Based on "Node-RED Hello, world! Example" at http://developer.opto22.com/nodered
 
 ![Node-RED](http://developer.opto22.com/images/node-red-pac/node-red-pac-hardware.jpg)
 
+For more information, please see the following information:
+
+- Getting Started with Node-RED
+- PAC Control nodes
+- groov View nodes
+- groov EPIC processor
+-- GRV-EPIC-PR1 product page
+- groov Edge Appliance
+-- GROOV-AR1 product page
+-- Node-RED announcement
+-- Digitally Wiring the IIoT with Node-RED
+-- groov.com
+- Resources
