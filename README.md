@@ -33,7 +33,38 @@ This Getting Started guide covers getting Node-RED running (either on a groov EP
 
 Node-RED comes pre-installed on groov EPIC processors and the groov Edge Appliance.
 
+If you want to run Node-RED on your own computer, continue to installing Node-RED.
+
+If using a groov EPIC processor or groov Edge Appliance, continue to the Hello, world! example.
+
 #### Node-RED Installation
+
+**Overview**
+Node-RED runs on the Node.js platform, a cross-platform JavaScript engine. For more information on Node.js, see [nodejs.org](https://nodejs.org/).
+
+Node-RED is pre-installed on groov EPIC processors and the groov Edge Appliance.
+
+To install Node.js and Node-RED on your own computer, see the following instructions.
+
+**Install Node.js**
+The recommended installer is on the Node.js [homepage](https://nodejs.org/), and other downloads are available on their [download page](https://nodejs.org/en/download/).
+
+Our SNAP PAC nodes require Node.js version 4.4.5 or newer, so get the current stable version.
+
+For Windows, it’s a typical installer that you download and run.
+
+For Linux, Node.js is available via many [package managers](https://nodejs.org/en/download/package-manager/). For instance, instructions for Debian-based systems like Ubuntu and the Raspberry Pi’s Raspbian are [here](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions). There are also various [binary downloads](https://nodejs.org/en/download/) available.
+
+Once Node.js is installed, you should verify that the version is 4.4.5 or newer. Open a command prompt or terminal window, and enter:
+
+```javascript
+node -v
+```
+
+You should get a response like:
+
+
+
 
 #### Node-RED Hello, world! - Part 1
 
