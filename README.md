@@ -131,6 +131,15 @@ Open your web browser to the address shown (for example, http://127.0.0.1:1880) 
 ![Server-Node-Red Terminal Node RED](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal_Node_RED.PNG) 
 Start Node-RED from a Terminal window
 
+![Server-Node-Red Terminal List_Settings](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal_List_Settings.PNG)
+Find settings.js file
+
+![Server-Node-Red Terminal Set_Settings](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal_Set_Settings.PNG)
+Set credentialSecret (here: made unreadable : ) in settings.js file and save
+
+![Server-Node-Red Terminal Node RED](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal_Node_RED_Restart.PNG) 
+Restart Node-RED from a Terminal window
+
 ![Server-Node-Red Terminal Google Chrome](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal_Google_Chrome.PNG)
 Start Google Chrome from a separate Terminal window
 
