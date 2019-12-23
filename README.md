@@ -146,11 +146,38 @@ Start Google Chrome from a separate Terminal window
 ![Server-Node-Red Browser](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Browser.PNG)
 Open the URL for Node-RED, hence http://127.0.0.1:1880, in Google Chrome.
 
-... more
-
-
-
 #### Node-RED Hello, world! - Part 1
+
+**Overview**
+
+While this tutorial covers a very basic example, there are a few key concepts that should be discussed first:
+
+- Messages are objects containing data, and they flow from node to node. They are the basic mechanism by which Node-RED operates.
+- Nodes either generate a new message or process an incoming message.
+- Messages have properties, which are values attached to the message. Properties are basically a variable and can be numbers, strings, booleans, arrays, or objects.
+- A very common message property is called the payload. Many nodes will use the payload property by default.
+- Inside of a node, the message object is called simply “msg”.
+- Flows are a collection of connected nodes that messages pass through.
+
+**Step 1 - Add an Inject node**
+
+First, we need a way to start the flow. That’s one of the main purposes of the Inject node—to inject a message into the flow.
+
+1. If it’s not open already, open Node-RED in your browser.
+- If using a groov EPIC processor, then open https://[groov-epic-hostname]/node-red
+- If using a groov Edge Appliance, then open https://[groov-box-hostname]:1880.
+- If using Node-RED running on your computer, you can use http://127.0.0.1:1880 or whichever address or hostname you’re using.
+2. If you haven’t used Node-RED before, there should be one empty flow named “Flow 1”.
+3. From the node palette on the left side of the Node-RED editor, select an Inject node and drag it onto the flow.
+4. Double-click the node to open the “Edit inject node” view.
+5. For the Payload field, select string and enter Hello, world! in the text field.
+6. Click Done.
+
+Later, with its msg.payload property set to “Hello, world!” this node is going to inject a message into the flow.
+
+![Text](http://developer.opto22.com/nodered/general/getting-started/images/nodered-helloworld-1.png)
+
+... more
 
 #### Node-RED Hello, world! - Part 2
 
