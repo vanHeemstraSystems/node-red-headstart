@@ -47,7 +47,7 @@ Node-RED is pre-installed on groov EPIC processors and the groov Edge Appliance.
 
 To install Node.js and Node-RED on your own computer, see the following instructions.
 
-**NOTE**: For demo purposes, we have created a server (Server-Node-RED) on Linux Academy Cloud Playground (https://app.linuxacademy.com/dashboard) on which below software has been installed. See https://linuxize.com/post/how-to-install-node-js-on-centos-7/
+**NOTE**: For demo purposes, we have created a server (Server-Node-RED) on Linux Academy Cloud Playground (https://app.linuxacademy.com/dashboard) on which below software has been installed. See https://linuxize.com/post/how-to-install-node-js-on-centos-7/ and https://www.cyberciti.biz/faq/howto-install-google-chrome-on-redhat-rhel-fedora-centos-linux/
 
 **Install Node.js**
 
