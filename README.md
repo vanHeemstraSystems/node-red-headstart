@@ -128,6 +128,9 @@ Open your web browser to the address shown (for example, http://127.0.0.1:1880) 
 
 **NOTE**: On Linux Academy Cloud Playground server you will have to open the Graphical Shell from the Actions menu of Server-Node-RED to open a browser.
 
+![Server-Node-Red Terminal](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Terminal.PNG) 
+
+![Server-Node-Red Browser](https://github.com/vanHeemstraSystems/node-red-headstart/blob/master/Graphical_Shell_Linux_Academy_Server_Node_RED_Browser.PNG)
 
 ... more
 
